@@ -1,7 +1,7 @@
 {
-  "name": "csmassignment1",
+  "name": "csmassignment2",
   "private": true,
-  "homepage": "https://stvnwastaken.github.io/csmassignment1/",
+  "homepage": "https://stvnwastaken.github.io/csmassignment2/",
   "version": "0.0.0",
   "scripts": {
     "dev": "cross-env TAILWIND_MODE=watch vite",
